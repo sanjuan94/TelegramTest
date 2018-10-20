@@ -11522,11 +11522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Progra\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\Progra\\source\\repos\\TelegramTest\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\Progra\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\Progra\\source\\repos\\TelegramTest\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\Progra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Progra\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\Progra\\source\\repos\\TelegramTest\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11545,8 +11545,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Progra\\source\\repos\\WebApplication2\\ClassLibrary1\\TelegramLib.csproj": {
-              "projectPath": "C:\\Users\\Progra\\source\\repos\\WebApplication2\\ClassLibrary1\\TelegramLib.csproj"
+            "C:\\Users\\Progra\\source\\repos\\TelegramTest\\ClassLibrary1\\TelegramLib.csproj": {
+              "projectPath": "C:\\Users\\Progra\\source\\repos\\TelegramTest\\ClassLibrary1\\TelegramLib.csproj"
             }
           }
         }

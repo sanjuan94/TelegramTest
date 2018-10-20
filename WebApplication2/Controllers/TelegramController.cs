@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ClassLibrary1;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
 
 namespace WebApplication2.Controllers
 {
@@ -34,8 +35,9 @@ namespace WebApplication2.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] JObject value)
         {
+
         }
 
         // PUT api/values/5

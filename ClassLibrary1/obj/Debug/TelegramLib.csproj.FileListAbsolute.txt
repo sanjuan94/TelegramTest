@@ -9,3 +9,14 @@ C:\Users\Progra\source\repos\WebApplication2\ClassLibrary1\obj\Debug\TelegramLib
 C:\Users\Progra\source\repos\WebApplication2\ClassLibrary1\obj\Debug\TelegramLib.csproj.CopyComplete
 C:\Users\Progra\source\repos\WebApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Progra\source\repos\WebApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\bin\Debug\Telegram.Bot.dll
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\bin\Debug\Telegram.Bot.xml
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\obj\Debug\TelegramLib.csprojAssemblyReference.cache
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\obj\Debug\TelegramLib.csproj.CoreCompileInputs.cache
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\obj\Debug\TelegramLib.csproj.CopyComplete
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Progra\source\repos\TelegramTest\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
